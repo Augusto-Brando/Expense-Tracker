@@ -1,2 +1,2 @@
 # Expense-Tracker
-Project using ReactJs 
+Project using ReactJs and Typescript
